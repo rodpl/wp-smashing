@@ -1,0 +1,6 @@
+Wp-Smashing modified by Rod
+===========================
+
+This theme is originaly made by Greg Johnson and can be downloaded from
+[here](http://bustatheme.com/wordpress/wp-smashing). It has been modified
+for using on my [blog](http://rod.42n.pl).
